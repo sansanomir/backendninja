@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background: lightcyan;
+}
+
+.App-logo {
+  height: 40vmin;
+  animation: App-logo-spin infinite 20s linear;
+}
+
+nav {
+  background: white;
+  padding: 20px;
+}
